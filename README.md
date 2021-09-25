@@ -3,7 +3,7 @@ We were given the code for a website called Horiseon to then make it fit for the
 
 ![Image of website](https://user-images.githubusercontent.com/90152576/134776930-67029024-0d3e-440b-b043-0abc272b8106.png)
 ![Image of website](https://user-images.githubusercontent.com/90152576/134776949-55e34020-e985-40ab-9ac9-1fb7420bded8.png)
-
+https://hlaing56.github.io/Horiseon/
 
 ## Things that were wrong with the code
 
